@@ -1,6 +1,6 @@
 # Blinkit Performance Analytics
 
-https://private-user-images.githubusercontent.com/165395155/350721392-7f72b1db-20f5-4a32-b847-d76e39a4c03d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEwOTExODQsIm5iZiI6MTc1MTA5MDg4NCwicGF0aCI6Ii8xNjUzOTUxNTUvMzUwNzIxMzkyLTdmNzJiMWRiLTIwZjUtNGEzMi1iODQ3LWQ3NmUzOWE0YzAzZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYyOFQwNjA4MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMDUyZTE2MzU3MGFmYTY5NjVlNDY1NWRhZWIyZDUyZDA4ZmVlNGJlZGMwOGM3YzE3ZTA2MmRiNzZlOWU3OWRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.zXXI16YlzozHcA-62yarF5jFcppdvsh6T-GK6jalbjE
+![Screenshot 2025-06-28 115610](https://github.com/user-attachments/assets/43d79837-56b3-4dcb-a10a-38233108e5e5)
 
 This project presents a comprehensive end-to-end sales analysis of Blinkit's retail data using **Python**, **Power BI**, and a structured **CSV dataset**. It replicates a real-world business intelligence solution — from raw data preprocessing and SQL-based queries to dashboard visualization and insight generation.
 
